@@ -20,5 +20,6 @@
   "homepage": "https://github.com/jbarnette1975/node-express-server-intro#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {}
 }
